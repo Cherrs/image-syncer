@@ -1,0 +1,3 @@
+registry.ebs.jsbooks.com.cn:
+  password: ${PASSWORD}
+  username: gitlab+deploy-token-3
