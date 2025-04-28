@@ -1,1 +1,1 @@
-nginx: "registry.ebs.jsbooks.com.cn/global/registries/nginx"
+nginx:latest: "registry.ebs.jsbooks.com.cn/global/registries/nginx"
