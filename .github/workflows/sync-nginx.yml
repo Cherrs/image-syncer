@@ -19,4 +19,4 @@ jobs:
           version: latest
           proc: 20
         env:
-          ACR_PASSWORD: ${{ secrets.PASSWORD }}
+          GITLAB_PASSWORD: ${{ secrets.GITLAB_PASSWORD }}
