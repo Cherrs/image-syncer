@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - uses: hhyasdf/image-sync-action@v1.1
         with:
           auth_file: ./auth.yaml
@@ -19,4 +19,4 @@ jobs:
           version: latest
           proc: 20
         env:
-          ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
+          ACR_PASSWORD: ${{ secrets.PASSWORD }}
