@@ -1,1 +1,2 @@
 nginx:latest: "registry.ebs.jsbooks.com.cn/global/registries/nginx"
+gcr.io/kaniko-project/executor:debug: "registry.ebs.jsbooks.com.cn/global/registries/executor"
