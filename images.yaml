@@ -1,4 +1,4 @@
 nginx:latest: "registry.ebs.jsbooks.com.cn/global/registries/nginx"
 gcr.io/kaniko-project/executor:debug: "registry.ebs.jsbooks.com.cn/global/registries/executor"
 redis:7.2.7-alpine: "registry.ebs.jsbooks.com.cn/global/registries/redis"
-cluster-operator:2.15.0: "registry.ebs.jsbooks.com.cn/global/registries/cluster-operator"
+rabbitmqoperator/cluster-operator:2.15.0: "registry.ebs.jsbooks.com.cn/global/registries/cluster-operator"
