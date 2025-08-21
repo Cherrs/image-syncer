@@ -3,3 +3,4 @@ gcr.io/kaniko-project/executor:debug: "registry.ebs.jsbooks.com.cn/global/regist
 redis:7.2.7-alpine: "registry.ebs.jsbooks.com.cn/global/registries/redis"
 rabbitmqoperator/cluster-operator:2.15.0: "registry.ebs.jsbooks.com.cn/global/registries/cluster-operator"
 rabbitmq:4.1.2-management: "registry.ebs.jsbooks.com.cn/global/registries/rabbitmq"
+bitnami/kubectl:latest: "registry.ebs.jsbooks.com.cn/global/registries/kubectl"
